@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">StyleActivity</string>
+    <string name="seller">Fahri Maulana</string>
+    <string name="dummy_photos">6 Photo</string>
+    <string name="dummy_value">$735</string>
+    <string name="stock">Stock Hanya 5 Buah</string>
+    <string name="content_text">
+        Name: Google Pixel
+        \n
+        \n
+        Description: Google Pixel is a smartphone developed by Google. It was announced on October 4, 2016, and released on October 20, 2016. The phone is the first in the Google Pixel line of phones, and is the first phone to run Android 7.1 "Nougat" out of the box. The phone is manufactured by HTC, and features a 5-inch 1080p AMOLED display, a 12.3-megapixel rear camera, an 8-megapixel front camera, and a 2770 mAh battery. The phone is available in three colors: Quite Black, Very Silver, and Really Blue.
+
+    </string>
+    <string name="specification">
+        Specification:
+        Display: 5.0 inch
+        Size: 5.0 inch
+        OS: Android 7.1
+        Processor: 2.15 GHz
+        RAM: 4 GB
+        Storage: 32 GB
+        Camera: 12 MP
+        Battery: 2770 mAh
+
+    </string>
+    <string name="display">5.0 Inch</string>
+    <string name="content_specs_display">6.0 Inch</string>
+    <string name="size">24 Cm</string>
+    <string name="content_specs_size">12 Cm</string>
+    <string name="battery">6700mAH</string>
+    <string name="content_specs_battery">6700mAH</string>
+    <string name="my_name">Fahri Maulana Al Ghazali</string>
+    <string name="buy">Beli Sekarang</string>
+
+</resources>
